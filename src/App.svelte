@@ -18,4 +18,4 @@
 
 <h1>Hello {name}, my age is {age}!</h1>
 <p>Ploty</p>
-<button on:click={incrementAge}>Change Age</button>
+<button on:click="{incrementAge}">Change Age</button>
